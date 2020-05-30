@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editPassord" type="id" />
+    <item name="editPhone" type="id" />
+    <item name="remember_me" type="id" />
+    <item name="editPassword" type="id" />
+    <item name="imageView" type="id" />
+    <item name="nav_host_fragment" type="id" />
+    <item name="refresh" type="id" />
+    <item name="recycle_menu" type="id" />
+    <item name="text_gallery" type="id" />
+    <item name="text_home" type="id" />
+    <item name="text_slideshow" type="id" />
+</resources>

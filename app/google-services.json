@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042024678472",
+    "firebase_url": "https://food2go-770d1.firebaseio.com",
+    "project_id": "food2go-770d1",
+    "storage_bucket": "food2go-770d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042024678472:android:ecfb4f4c62a76ccfd9047d",
+        "android_client_info": {
+          "package_name": "com.example.food2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042024678472-h3hcstfo7ilf14246ipeqttgadtttpje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food2go",
+            "certificate_hash": "92610bdd60b9c5d37ab7340e3fd645b586ef803e"
+          }
+        },
+        {
+          "client_id": "1042024678472-ib15hkpvn31seob4d345hbijoat89nj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOVmSqlyvfwelI1FXv0C_J8-xcI7PFfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042024678472-ib15hkpvn31seob4d345hbijoat89nj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
